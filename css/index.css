@@ -1,0 +1,280 @@
+.abd{
+	width: 900px;
+	height: 2700px;
+	background-color: hotpink;
+}
+.a{
+	width: 900px;
+	height: 900px;
+	background-color: black;
+}
+.b{
+	width: 900px;
+	height: 450px;
+	background-color: blue;
+}
+.d{
+	width: 900px;
+	height: 50px;
+	background-color: black;
+}
+h4{
+	font-size: 25px;
+	color: white;
+	padding-left: 45px;
+	padding-top: 10px;
+}
+.e{
+	width: 900px;
+	height: 400px;
+	background-color: black;
+}
+.p1{
+	background-image: url('../images/underwater.jpg');
+	background-size: contain;
+	width: 900px;
+	height: 400px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+h1{
+	color: white;
+	font-size: 60px;
+		
+}
+p{
+	color: white;
+	font-size: 15px;
+	font-family: arial;
+
+}
+.f{
+	width: 100px;
+	height: 35px;
+	color: black;
+	border-radius: 20px;
+	border: none;
+}
+.c{
+	width: 900px;
+	height: 450px;
+	background-color: black;
+}
+.g{
+	width: 900px;
+	height: 150px;
+	background-color: black;
+	padding-top: 20px;
+}
+h2{
+	color: white;
+	
+}
+.h{
+	width: 900px;
+	height: 300px;
+	background-color: black;
+}
+.k{
+	width: 240px;
+	height: 250px;
+	background-image: url('../images/revillagigedo.jpg');
+	background-position: center;
+	float: left;
+	margin-top: 25px;
+	margin-left: 60px;
+	background-repeat: no-repeat;
+}
+.l{
+	width: 240px;
+	height: 250px;
+	background-image: url('../images/monkey1.jpg');
+	background-position: center;
+	float: left;
+	margin-top: 25px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+.m{
+	width: 240px;
+	height: 250px;
+	background-image: url('../images/kumodojudo.jpg');
+	background-position: center;
+	float: right;
+	margin-top: 25px;
+	margin-right: 60px;
+	background-repeat: no-repeat;
+}
+h3{
+	color: white;
+	padding-top: 110px;
+	padding-left: 25px;
+}
+.virat{
+	width: 900px;
+	height: 900px;
+	background-color: black;
+}
+.kohli{
+	width: 900px;
+	height: 900px;
+	background-color: black;
+}
+.n{
+	width: 900px;
+	height: 300px;
+	background-color: black;
+}
+.n{
+	background-image: url("../images/elephant.jpg");
+	background-position: center; 
+	background-repeat: no-repeat; 
+	background-size: cover;
+	width: 100%;
+}
+.o{
+	width: 900px;
+	height: 300px;
+	background-color: black;
+}
+.p{
+	width: 900px;
+	height: 300px;
+	background-color: red;
+}
+.q{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 120px;
+	padding-right: 140px;
+	padding-left: 140px;
+	margin:0px ;
+}
+.r{
+	color: white;
+	font-family: arial;
+	font-size: 12px;
+	padding-left: 150px;
+	padding-right: 150px;
+	text-align: center;
+}
+pre{
+	font-size: 30px;
+	color: white;
+	font-family: serif;
+}
+.jk{
+	color: white;
+	font-size: 11px;
+	text-align: center;
+	padding-left: 70px;
+	padding-right: 70px;
+	font-family: arial;
+}
+.pk{
+	background-image: url('../images/horses.jpg');
+	background-repeat: no-repeat; 
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	padding-top: 30px;
+	margin: 0px;
+}
+.kg{
+	width: 900px;
+	height: 350px;
+	background-color: black;
+}
+.mm{
+	width: 900px;
+	height: 200px;
+	background-color: black;
+}
+.pad{
+	width: 900px;
+	height: 350px;
+	background-color: black;
+}
+
+.cc{
+	width: 240px;
+	height: 250px;
+	background-image: url('../images/penguin.jpg');
+	background-size: contain;
+	background-position: center;
+	float: left;
+	margin-top: 20px;
+	margin-left: 185px;
+	background-repeat: no-repeat;
+}
+.vv{
+	width: 240px;
+	height: 250px;
+	background-image: url('../images/octapus.jpg');
+	background-size: contain;
+	background-position: center;
+	float: left;
+	margin-top: 20px;
+	margin-left: 30px;
+	background-repeat: no-repeat;
+}
+.nbk{
+	color: white;
+	font-size: 32px;
+	text-align: center;
+
+}
+.kbr{
+	font-size: 14px;
+	font-family: arial;
+	text-align: center;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+.yuvi{
+	width: 180px;
+	height: 180px;
+	background-image: url('../images/forest.jpg');
+	float: left;
+	margin-top: 25px;
+	margin-left: 45px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.bhuvi{
+	width: 180px;
+	height: 180px;
+	margin-top: 25px;
+	margin-left: 30px;
+	background-image: url('../images/elephant1.jpg');
+	float: left;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.dravid{
+	width: 180px;
+	height: 180px;
+	margin-top: 25px;
+	margin-left: 30px;
+	background-image: url('../images/monkeys.jpg');
+	float: left;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.shahidafridi{
+	width: 180px;
+	height: 180px;
+	margin-top: 25px;
+	margin-left: 30px;
+	background-image: url('../images/owl.jpg');
+	background-size: contain;
+	float: left;
+	background-repeat: no-repeat;
+	
+}
+pre{
+	color: white;
+	font-size: 25px;
+}
